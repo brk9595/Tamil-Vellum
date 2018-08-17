@@ -128,6 +128,7 @@
                         <constraints>
                             <constraint firstItem="OF5-LG-aSc" firstAttribute="top" secondItem="7ri-0g-gwh" secondAttribute="top" constant="20" id="0iB-aZ-HBn"/>
                             <constraint firstItem="7ri-0g-gwh" firstAttribute="trailing" secondItem="OF5-LG-aSc" secondAttribute="trailing" constant="16" id="1s5-tB-7gF"/>
+                            <constraint firstAttribute="bottom" secondItem="Y2I-4a-0Zd" secondAttribute="bottom" id="26k-N7-EAH"/>
                             <constraint firstItem="Y2I-4a-0Zd" firstAttribute="top" secondItem="7ri-0g-gwh" secondAttribute="top" constant="-65" id="3HE-lB-JjI"/>
                             <constraint firstAttribute="trailing" secondItem="Y2I-4a-0Zd" secondAttribute="trailing" id="Dq8-JB-XXt"/>
                             <constraint firstItem="Y2I-4a-0Zd" firstAttribute="bottom" secondItem="7ri-0g-gwh" secondAttribute="bottom" id="Y8f-Zg-4hv"/>
@@ -151,7 +152,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lm2-YV-fkG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1938" y="122"/>
+            <point key="canvasLocation" x="1936.8" y="121.88905547226388"/>
         </scene>
         <!--Navigation View Controller-->
         <scene sceneID="pdT-xx-rgQ">

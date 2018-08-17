@@ -21,7 +21,7 @@
 
 /* Begin PBXFileReference section */
 		0B9C0FBE2125676900E8A39C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0BFBCACC211AC963007542EB /* தமிழ் வெல்லும் - Tamil Vellum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "தமிழ் வெல்லும் - Tamil Vellum.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BFBCACC211AC963007542EB /*  Tamil Vellum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = " Tamil Vellum.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BFBCACF211AC963007542EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BFBCAD4211AC963007542EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0BFBCAD7211AC963007542EB /* _________________Tamil_Vellum.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "_________________Tamil_Vellum.xcdatamodel"; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		0BFBCACD211AC963007542EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0BFBCACC211AC963007542EB /* தமிழ் வெல்லும் - Tamil Vellum.app */,
+				0BFBCACC211AC963007542EB /*  Tamil Vellum.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -98,9 +98,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0BFBCACB211AC963007542EB /* தமிழ் வெல்லும் - Tamil Vellum */ = {
+		0BFBCACB211AC963007542EB /*  Tamil Vellum */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0BFBCAE1211AC966007542EB /* Build configuration list for PBXNativeTarget "தமிழ் வெல்லும் - Tamil Vellum" */;
+			buildConfigurationList = 0BFBCAE1211AC966007542EB /* Build configuration list for PBXNativeTarget " Tamil Vellum" */;
 			buildPhases = (
 				0BFBCAC8211AC963007542EB /* Sources */,
 				0BFBCAC9211AC963007542EB /* Frameworks */,
@@ -110,9 +110,9 @@
 			);
 			dependencies = (
 			);
-			name = "தமிழ் வெல்லும் - Tamil Vellum";
+			name = " Tamil Vellum";
 			productName = "தமிழ் வெல்லும் - Tamil Vellum";
-			productReference = 0BFBCACC211AC963007542EB /* தமிழ் வெல்லும் - Tamil Vellum.app */;
+			productReference = 0BFBCACC211AC963007542EB /*  Tamil Vellum.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -130,7 +130,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0BFBCAC7211AC963007542EB /* Build configuration list for PBXProject "தமிழ் வெல்லும் - Tamil Vellum" */;
+			buildConfigurationList = 0BFBCAC7211AC963007542EB /* Build configuration list for PBXProject " Tamil Vellum" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -143,7 +143,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0BFBCACB211AC963007542EB /* தமிழ் வெல்லும் - Tamil Vellum */,
+				0BFBCACB211AC963007542EB /*  Tamil Vellum */,
 			);
 		};
 /* End PBXProject section */
@@ -325,10 +325,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.bharathb.tamilvellum.-----------------Tamil-Vellum";
+				PRODUCT_BUNDLE_IDENTIFIER = co.bharathb.tamilvellum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -343,17 +343,17 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.bharathb.tamilvellum.-----------------Tamil-Vellum";
+				PRODUCT_BUNDLE_IDENTIFIER = co.bharathb.tamilvellum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0BFBCAC7211AC963007542EB /* Build configuration list for PBXProject "தமிழ் வெல்லும் - Tamil Vellum" */ = {
+		0BFBCAC7211AC963007542EB /* Build configuration list for PBXProject " Tamil Vellum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0BFBCADF211AC966007542EB /* Debug */,
@@ -362,7 +362,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0BFBCAE1211AC966007542EB /* Build configuration list for PBXNativeTarget "தமிழ் வெல்லும் - Tamil Vellum" */ = {
+		0BFBCAE1211AC966007542EB /* Build configuration list for PBXNativeTarget " Tamil Vellum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0BFBCAE2211AC966007542EB /* Debug */,

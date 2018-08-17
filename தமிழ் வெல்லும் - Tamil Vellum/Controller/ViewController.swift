@@ -60,7 +60,7 @@ class ViewController: UIViewController {
     @IBAction func shareText(_ sender: Any) {
         
         
-        let newData = "\(data) + தமிழ் வெல்லும் - Tamil Vellum"
+        let newData = "\(data) தமிழ் வெல்லும் - Tamil Vellum"
         
         let shareItems:Array = [newData]
         let activityViewController:UIActivityViewController = UIActivityViewController(activityItems: shareItems, applicationActivities: nil)
